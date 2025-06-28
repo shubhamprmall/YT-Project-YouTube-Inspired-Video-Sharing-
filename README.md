@@ -1,6 +1,6 @@
 🌐 Project Title: YT Project – YouTube-Inspired Video Sharing Platform
 📋 Description:
-VidStream is a front-end responsive video sharing website inspired by the layout and features of YouTube. It is built using HTML, CSS, and JavaScript and designed to give users an immersive video browsing experience. The website includes a custom header, search functionality, a sidebar menu, and a dynamic video card layout — all styled originally to avoid copyright infringement.
+YT Project is a front-end responsive video sharing website inspired by the layout and features of YouTube. It is built using HTML, CSS, and JavaScript and designed to give users an immersive video browsing experience. The website includes a custom header, search functionality, a sidebar menu, and a dynamic video card layout — all styled originally to avoid copyright infringement.
 
 🚀 Features:
 Responsive design for desktop, tablet, and mobile
